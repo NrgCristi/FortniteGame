@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.exe
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.deps.json
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.runtimeconfig.json
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.runtimeconfig.dev.json
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.dll
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\ref\FortniteGame.dll
+C:\Users\User\source\repos\FortniteGame\FortniteGame\bin\Debug\net5.0\FortniteGame.pdb
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.AssemblyInfo.cs
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.dll
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\ref\FortniteGame.dll
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.pdb
+C:\Users\User\source\repos\FortniteGame\FortniteGame\obj\Debug\net5.0\FortniteGame.genruntimeconfig.cache
